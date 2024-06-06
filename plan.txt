@@ -1,0 +1,19 @@
+Feld:
+- 0: Spieler
+- 1, 2, 3, ...: Gegner
+- -1: nichts
+- Powerup 2x Geschwindigkeit
+- Powerup 2x Schaden
+- Powerup Gesundheit
+- Jump-Pad
+- Kisten
+- Wasser
+- besonders starke Waffe mit beschränkten Anzahlen
+- Portale
+- Knöpfe und Türen
+
+Tutorial
+
+Editor für Karten
+
+Labyrinth mit Ziel
