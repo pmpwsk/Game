@@ -1,4 +1,7 @@
-﻿//save original background color
+﻿using uwap.Game;
+
+
+//save original background color
 ConsoleColor background = Console.BackgroundColor;
 
 //set map properties
@@ -129,10 +132,4 @@ void MovePlayer(Position newPosition)
                 Environment.Exit(0);
                 break;
         }
-}
-
-struct Position(int x, int y)
-{
-    public int X = x;
-    public int Y = y;
 }
